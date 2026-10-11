@@ -13,9 +13,10 @@
     "expires": "never"
   },
   "PUGZ-ABCD-1234": {
-    "hwid": null,
+    "hwid": "0f781cfa-ccdb-45b8-90e5-e5df114bebd5",
     "status": "active",
     "user": "Pugz",
-    "expires": "never"
+    "expires": "never",
+    "activated_at": "2026-10-11T19:34:01.770Z"
   }
 }
