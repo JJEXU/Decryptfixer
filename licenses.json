@@ -1,0 +1,14 @@
+{
+  "LUCOS-TEST-KEY-2026": {
+    "hwid": null,
+    "status": "active",
+    "user": "JJEXU Admin",
+    "expires": "never"
+  },
+  "VIP-CLIENT-ABCD-1234": {
+    "hwid": null,
+    "status": "active",
+    "user": "Customer 1",
+    "expires": "never"
+  }
+}
