@@ -11,5 +11,11 @@
     "status": "active",
     "user": "Customer 1",
     "expires": "never"
+  },
+  "PUGZ-ABCD-1234": {
+    "hwid": null,
+    "status": "active",
+    "user": "Pugz",
+    "expires": "never"
   }
 }
