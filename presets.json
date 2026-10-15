@@ -1,0 +1,164 @@
+{
+  "presets": [
+    {
+      "kind": "look",
+      "code": "PX-566E5G565N4#5N4VC",
+      "name": "CS2 Pro Vibrant",
+      "game": "CS2",
+      "blurb": "Maximum enemy visibility in dark spots with balanced saturation",
+      "author": "ProPlayer",
+      "screenshot": ""
+    },
+    {
+      "kind": "look",
+      "code": "PX-4#6W5N4#5T4V5Y4Q3",
+      "name": "Rust PvP High Clarity",
+      "game": "Rust",
+      "blurb": "Easily spot players roaming at distance and in shadows",
+      "author": "RustGod",
+      "screenshot": ""
+    },
+    {
+      "kind": "look",
+      "code": "PX-4Q695B5B5B5B5G56R",
+      "name": "Fortnite Vivid Daylight",
+      "game": "Fortnite",
+      "blurb": "Clean outlines and punchy colours without eye strain",
+      "author": "BoxFighter",
+      "screenshot": ""
+    },
+    {
+      "kind": "look",
+      "code": "PX-4V6R5E565G4#5T4V5",
+      "name": "Valorant Outlines",
+      "game": "Valorant",
+      "blurb": "Bright player outlines and clear headshot levels",
+      "author": "RadiantOne",
+      "screenshot": ""
+    },
+    {
+      "kind": "look",
+      "code": "PX-566K5J565N565N4VD",
+      "name": "Resurgence",
+      "game": "Call of Duty",
+      "blurb": "Adds vibrance and makes enemies easier to spot in Warzone",
+      "author": "whoz",
+      "screenshot": ""
+    },
+    {
+      "kind": "look",
+      "code": "PX-4J645G565G565N4#D",
+      "name": "Clean Colours",
+      "game": "Rainbow Six Siege",
+      "blurb": "Balanced contrast for dark corners and doorways",
+      "author": "kay",
+      "screenshot": ""
+    },
+    {
+      "kind": "look",
+      "code": "PX-4V6K5G565G4#5N4VH",
+      "name": "PUBG Erangel Vivid",
+      "game": "PUBG",
+      "blurb": "Cut through grass and foliage easily",
+      "author": "SniperKing",
+      "screenshot": ""
+    },
+    {
+      "kind": "crosshair",
+      "code": "PXC-522U2U222U2U569#9#9#M",
+      "name": "Clean Red Dot",
+      "game": "Other",
+      "blurb": "Minimalist dot for precision one-taps",
+      "author": "Aimer",
+      "screenshot": ""
+    },
+    {
+      "kind": "crosshair",
+      "code": "PXC-4H3M2H2U2H4D569#9#9#7",
+      "name": "CS:GO Pro Cross",
+      "game": "CS2",
+      "blurb": "Classic compact cross used by tournament pros",
+      "author": "MAYN",
+      "screenshot": ""
+    },
+    {
+      "kind": "crosshair",
+      "code": "PXC-4J2P2P3A2P3X569#9#9#9",
+      "name": "Target Ring",
+      "game": "Rust",
+      "blurb": "Holo sight style ring with black border",
+      "author": "RustGod",
+      "screenshot": ""
+    },
+    {
+      "kind": "crosshair",
+      "code": "PXC-CE482U2P2U4V569#9#9#2C8A8A2256222222T",
+      "name": "Chevron Arrow",
+      "game": "Valorant",
+      "blurb": "Apex / Valorant style upward arrow crosshair",
+      "author": "Arrow",
+      "screenshot": ""
+    },
+    {
+      "kind": "display",
+      "code": "PXM-3X23F29J25U",
+      "name": "1920x1440 4:3 Stretched",
+      "game": "CS2",
+      "blurb": "WQHD native stretched resolution at 240Hz",
+      "author": "Shadoww_4Fox",
+      "screenshot": ""
+    },
+    {
+      "kind": "display",
+      "code": "PXM-3F233T9J25A",
+      "name": "1440x1080 4:3 Stretched",
+      "game": "Rust",
+      "blurb": "Classic 4:3 stretched for wider models and high FPS",
+      "author": "ProStretched",
+      "screenshot": ""
+    },
+    {
+      "kind": "display",
+      "code": "PXM-3A22Z29J25H",
+      "name": "1280x960 Tournament Stretched",
+      "game": "CS2",
+      "blurb": "The tournament standard stretched resolution",
+      "author": "MajorWinner",
+      "screenshot": ""
+    },
+    {
+      "kind": "config",
+      "code": "PXF-PX-4#6W5N4#5T4V5Y4Q3.PXC-4H3M2H2U2H4D569#9#9#7.PXM-3F233T9J25A",
+      "name": "Rust Competitive Complete Setup",
+      "game": "Rust",
+      "blurb": "Full combo: 1440x1080 stretched \u002B PvP look \u002B pro crosshair",
+      "author": "MAYN",
+      "screenshot": ""
+    },
+    {
+      "kind": "config",
+      "code": "PXF-PX-566E5G565N4#5N4VC.PXC-4H3M2H2U2H4D569#9#9#7.PXM-3X23F29J25U",
+      "name": "CS2 Premier Complete Setup",
+      "game": "CS2",
+      "blurb": "Full combo: 1920x1440 stretched \u002B vivid look \u002B pro crosshair",
+      "author": "GlobalElite",
+      "screenshot": ""
+    }
+  ],
+  "games": [
+    "Rust",
+    "CS2",
+    "Fortnite",
+    "PUBG",
+    "Valorant",
+    "Rainbow Six Siege",
+    "Call of Duty",
+    "Other"
+  ],
+  "kinds": [
+    "look",
+    "crosshair",
+    "display",
+    "config"
+  ]
+}
