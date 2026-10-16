@@ -25,5 +25,12 @@
     "user": "Buckfast",
     "expires": "never",
     "activated_at": ""
+  },
+  },
+  "Ghost-1234": {
+    "hwid": null,
+    "status": "active",
+    "user": "Ghost",
+    "expires": "never"
   }
 }
