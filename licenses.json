@@ -10,7 +10,8 @@
     "hwid": null,
     "status": "active",
     "user": "Killa Kam",
-    "expires": "never"
+    "expires": "never",
+    "activated_at": null
   },
   "PUGZ-ABCD-1234": {
     "hwid": "0f781cfa-ccdb-45b8-90e5-e5df114bebd5",
@@ -27,9 +28,10 @@
     "activated_at": ""
   },
   "Ghost-1234": {
-    "hwid": null,
+    "hwid": "dac4c363-e23d-4112-a940-c29ea720360d",
     "status": "active",
     "user": "Ghost",
-    "expires": "never"
+    "expires": "never",
+    "activated_at": "2026-10-16T20:59:44.6517269Z"
   }
 }
