@@ -1,10 +1,10 @@
 {
   "LUCOS-TEST-KEY-2026": {
-    "hwid": "",
+    "hwid": "557c15bf-054f-41a6-8dd7-de656beabe9d",
     "status": "active",
     "user": "JJEXU Admin",
     "expires": "never",
-    "activated_at": "2026-10-11T17:25:57.333Z"
+    "activated_at": "2026-10-18T01:16:54.696Z"
   },
   "killakam-1234": {
     "hwid": null,
