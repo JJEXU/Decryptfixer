@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": "upload-1792430795133-2008",
+    "title": "Juice aint nothing to it",
+    "name": "Juice aint nothing to it",
+    "artist": "Unknown Artist",
+    "artists": [
+      {
+        "name": "Unknown Artist"
+      }
+    ],
+    "album": {
+      "name": "Xeon Community",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/JJEXU/Decryptfixer/main/public/logo.png"
+        }
+      ]
+    },
+    "cover": "https://raw.githubusercontent.com/JJEXU/Decryptfixer/main/public/logo.png",
+    "duration": 172,
+    "audioUrl": "https://raw.githubusercontent.com/JJEXU/Decryptfixer/main/music_uploads/1792430791847_Juice_aint_nothing_to_it.mp3",
+    "streamUrl": "https://raw.githubusercontent.com/JJEXU/Decryptfixer/main/music_uploads/1792430791847_Juice_aint_nothing_to_it.mp3",
+    "source": "upload",
+    "uploadedAt": "2026-10-19T17:26:35.133Z"
+  }
+]
