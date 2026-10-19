@@ -1,0 +1,30 @@
+{
+  "v": 1,
+  "id": "9nd5kd",
+  "n": "Luco Hits",
+  "c": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4",
+  "cl": "#38bdf8",
+  "p": false,
+  "t": [
+    {
+      "i": "t1",
+      "ti": "Starboy",
+      "a": "The Weeknd",
+      "d": 230,
+      "ds": "3:50",
+      "ar": null,
+      "s": "xeonify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "t2",
+      "ti": "Blinding Lights",
+      "a": "The Weeknd",
+      "d": 200,
+      "ds": "3:20",
+      "ar": null,
+      "s": "xeonify",
+      "b": "Xeonify"
+    }
+  ]
+}
