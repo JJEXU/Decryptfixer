@@ -33,5 +33,12 @@
     "user": "Ghost",
     "expires": "never",
     "activated_at": "2026-10-16T20:59:44.6517269Z"
+  },
+  "quan-1234": {
+    "hwid": "null",
+    "status": "active",
+    "user": "Quand did it",
+    "expires": "never",
+    "activated_at": "null"
   }
 }
