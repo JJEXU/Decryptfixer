@@ -42,10 +42,10 @@
     "activated_at": null
   },
   "chris-1234": {
-    "hwid": null,
+    "hwid": "29aa4b77-8a0c-4854-a37d-129d8c839b7e",
     "status": "active",
     "user": "chris",
     "expires": "never",
-    "activated_at": null
+    "activated_at": "2026-10-29T12:11:25.008Z"
   }
 }
