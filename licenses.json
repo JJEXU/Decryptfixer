@@ -35,52 +35,17 @@
     "activated_at": "2026-10-16T20:59:44.6517269Z"
   },
   "quan-1234": {
-    "hwid": "null",
-    "status": "active",
-    "user": "Quand did it",
-    "expires": "never",
-    "activated_at": "null"
-  },
-  "chris-1234": {
-    "hwid": "557c15bf-054f-41a6-8dd7-de656beabe9d",
-    "status": "active",
-    "user": "chris",
-    "expires": "never",
-    "activated_at": "2026-10-29T11:45:48.811Z"
-  },
-  "CHRIS-1234": {
-    "hwid": "557c15bf-054f-41a6-8dd7-de656beabe9d",
-    "status": "active",
-    "user": "chris",
-    "expires": "never",
-    "activated_at": "2026-10-29T11:45:48.811Z"
-  },
-  "KILLAKAM-1234": {
     "hwid": null,
     "status": "active",
-    "user": "Killa Kam",
+    "user": "Quand did it",
     "expires": "never",
     "activated_at": null
   },
-  "BUCKFAST-NIGGER-NIGGER-1234": {
-    "hwid": "",
+  "chris-1234": {
+    "hwid": null,
     "status": "active",
-    "user": "Buckfast",
+    "user": "chris",
     "expires": "never",
-    "activated_at": ""
-  },
-  "GHOST-1234": {
-    "hwid": "dac4c363-e23d-4112-a940-c29ea720360d",
-    "status": "active",
-    "user": "Ghost",
-    "expires": "never",
-    "activated_at": "2026-10-16T20:59:44.6517269Z"
-  },
-  "QUAN-1234": {
-    "hwid": "null",
-    "status": "active",
-    "user": "Quand did it",
-    "expires": "never",
-    "activated_at": "null"
+    "activated_at": null
   }
 }
