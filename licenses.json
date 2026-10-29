@@ -40,5 +40,12 @@
     "user": "Quand did it",
     "expires": "never",
     "activated_at": "null"
-  }
+  },
+  "chris-1234": {
+    "hwid": null,
+    "status": "active",
+    "user": "chris",
+    "expires": "never",
+    "activated_at": null
+  },
 }
