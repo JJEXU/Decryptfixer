@@ -49,11 +49,11 @@
     "activated_at": null
   },
   "CHRIS-1234": {
-    "hwid": "",
+    "hwid": "557c15bf-054f-41a6-8dd7-de656beabe9d",
     "status": "active",
     "user": "chris",
     "expires": "never",
-    "activated_at": null
+    "activated_at": "2026-10-29T11:44:53.707Z"
   },
   "KILLAKAM-1234": {
     "hwid": null,
