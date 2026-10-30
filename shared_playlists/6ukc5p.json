@@ -1,0 +1,710 @@
+{
+  "v": 1,
+  "id": "6ukc5p",
+  "n": "Juice",
+  "c": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+  "cl": "#a855f7",
+  "p": true,
+  "t": [
+    {
+      "i": "spotify-7duCWYTx2zrlglZumCwejX",
+      "ti": "Bandit",
+      "a": "Juice WRLD, YoungBoy Never Broke Again",
+      "d": 189,
+      "ds": "3:09",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-0y7jCiOP32uRsRrsO2FeUW",
+      "ti": "Intro",
+      "a": "Juice WRLD",
+      "d": 75,
+      "ds": "1:15",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-05OTKQWr4soHTTsE1wK3UJ",
+      "ti": "All Girls Are The Same",
+      "a": "Juice WRLD",
+      "d": 166,
+      "ds": "2:46",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-79CzbTOcQbkkkjLCPyn19y",
+      "ti": "Lucid Dreams",
+      "a": "Juice WRLD",
+      "d": 240,
+      "ds": "4:00",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-27v0geBKSkN9W0I4TOfMon",
+      "ti": "Lean Wit Me",
+      "a": "Juice WRLD",
+      "d": 176,
+      "ds": "2:56",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-2zs3ErwfEyzI4K2H9vEnTD",
+      "ti": "No Good",
+      "a": "Juice WRLD",
+      "d": 253,
+      "ds": "4:13",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-1Z22uO92kr73rVFPTMa6aE",
+      "ti": "Wasted (feat. Lil Uzi Vert)",
+      "a": "Juice WRLD, Lil Uzi Vert",
+      "d": 258,
+      "ds": "4:18",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-0TzCnLv9kRuiEAYvGFMD9C",
+      "ti": "I'm Still",
+      "a": "Juice WRLD",
+      "d": 193,
+      "ds": "3:13",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-4j7i5evke3BhsPe49rkdN3",
+      "ti": "734",
+      "a": "Juice WRLD",
+      "d": 196,
+      "ds": "3:16",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-5xhRIfgxebRzqHkZouojfO",
+      "ti": "Betrayal - Skit",
+      "a": "Juice WRLD",
+      "d": 64,
+      "ds": "1:04",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-0tQbQWmD1XfeCvB66ojLWk",
+      "ti": "Candles",
+      "a": "Juice WRLD",
+      "d": 184,
+      "ds": "3:04",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-00opUOSpJC9pGgyeQ0CxdA",
+      "ti": "Scared Of Love (with instrumental by Ghost Loft)",
+      "a": "Juice WRLD",
+      "d": 171,
+      "ds": "2:51",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-4Ycf7ERkC73bauhWlDcFRq",
+      "ti": "Used To",
+      "a": "Juice WRLD",
+      "d": 176,
+      "ds": "2:56",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-0BWLP4yQeGmMKZH7MPKbuv",
+      "ti": "Karma - Skit",
+      "a": "Juice WRLD",
+      "d": 75,
+      "ds": "1:15",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-6yVfs5OBNdLI3Np7D0IMB0",
+      "ti": "Hurt Me",
+      "a": "Juice WRLD",
+      "d": 122,
+      "ds": "2:02",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-6xkKnxPchUR6BuExOXygZ5",
+      "ti": "Black & White",
+      "a": "Juice WRLD",
+      "d": 187,
+      "ds": "3:07",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-5kQdQ3ZNc1yJrX3ERMB8Mu",
+      "ti": "Long Gone",
+      "a": "Juice WRLD",
+      "d": 187,
+      "ds": "3:07",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-4YDADntTfIyeUS5s2lOlgf",
+      "ti": "End Of The Road",
+      "a": "Juice WRLD",
+      "d": 163,
+      "ds": "2:43",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-7JtbfHuAt6zsV1q41F5t6i",
+      "ti": "I'll Be Fine",
+      "a": "Juice WRLD",
+      "d": 244,
+      "ds": "4:04",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-7aqsZaSCQRuSrgCudm7sZE",
+      "ti": "Lucid Dreams (feat. Lil Uzi Vert) - Remix",
+      "a": "Juice WRLD, Lil Uzi Vert",
+      "d": 240,
+      "ds": "4:00",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-1KGJ5ozUB7XOgCJ73IBMz3",
+      "ti": "Glo’d Up",
+      "a": "Juice WRLD",
+      "d": 151,
+      "ds": "2:31",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-4VXIryQMWpIdGgYR4TrjT1",
+      "ti": "All Girls Are The Same",
+      "a": "Juice WRLD",
+      "d": 166,
+      "ds": "2:46",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-285pBltuF7vW8TeWk8hdRR",
+      "ti": "Lucid Dreams",
+      "a": "Juice WRLD",
+      "d": 240,
+      "ds": "4:00",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-3oDkdAySo1VQQG0ptV7uwa",
+      "ti": "Lean Wit Me",
+      "a": "Juice WRLD",
+      "d": 176,
+      "ds": "2:56",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-1fCeXjoRExPP2qwSBh2aST",
+      "ti": "Black & White",
+      "a": "Juice WRLD",
+      "d": 187,
+      "ds": "3:07",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-6kls8cSlUyHW2BUOkDJIZE",
+      "ti": "Hate Me (with Juice WRLD)",
+      "a": "Ellie Goulding, Juice WRLD",
+      "d": 186,
+      "ds": "3:06",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-3wwo0bJvDSorOpNfzEkfXx",
+      "ti": "Let Me Know (I Wonder Why Freestyle)",
+      "a": "Juice WRLD",
+      "d": 215,
+      "ds": "3:35",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-33BBo7zULt3O7mgE3pWMM5",
+      "ti": "The Party Never Ends",
+      "a": "Juice WRLD",
+      "d": 140,
+      "ds": "2:20",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-4oFhT5d5TDTJnkc22hiczk",
+      "ti": "Misfit",
+      "a": "Juice WRLD",
+      "d": 159,
+      "ds": "2:39",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-2iVpUQJaQjOWGja05zyIj9",
+      "ti": "AGATS2 (Insecure) [with Nicki Minaj]",
+      "a": "Juice WRLD, Nicki Minaj",
+      "d": 199,
+      "ds": "3:19",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-256G9Lq6n91EIzkRxCrdjO",
+      "ti": "Lace It (with Eminem & benny blanco)",
+      "a": "Juice WRLD, Eminem, benny blanco",
+      "d": 218,
+      "ds": "3:38",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-4Y5IZAa51QUdIuX0VvSe7v",
+      "ti": "Cuffed",
+      "a": "Juice WRLD",
+      "d": 244,
+      "ds": "4:04",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-2QxekHjOYDnzNO5w8hu2D9",
+      "ti": "Empty Out Your Pockets",
+      "a": "Juice WRLD",
+      "d": 136,
+      "ds": "2:16",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-0IWi2ZDDldYKBHYmG7mqPm",
+      "ti": "KTM Drip",
+      "a": "Juice WRLD",
+      "d": 240,
+      "ds": "4:00",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-0B8N3M6SaJGwP9upZCpuWz",
+      "ti": "Love Letter",
+      "a": "Juice WRLD",
+      "d": 160,
+      "ds": "2:40",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-5iG5cxNN8um3C4b4rDAWl8",
+      "ti": "Condone It",
+      "a": "Juice WRLD",
+      "d": 180,
+      "ds": "3:00",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-4crL6Uy4ghQGJiuUHNJIqK",
+      "ti": "Goodbye",
+      "a": "The Kid LAROI",
+      "d": 162,
+      "ds": "2:42",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-0rAXLQ7JgPek5Wll0AXBMb",
+      "ti": "Party By Myself",
+      "a": "Juice WRLD",
+      "d": 199,
+      "ds": "3:19",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-38VkGQ4Sumz99xja6TCs7z",
+      "ti": "Adore You",
+      "a": "Juice WRLD",
+      "d": 167,
+      "ds": "2:47",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-6hEzT3fE6ecwWvhlqiFCLF",
+      "ti": "Celebrate (with Offset)",
+      "a": "Juice WRLD, Offset",
+      "d": 180,
+      "ds": "3:00",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-6YUrzxcR2tAV0jtwlcSvgt",
+      "ti": "Jeffrey",
+      "a": "Juice WRLD",
+      "d": 175,
+      "ds": "2:55",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-7EBy2V93Ykyvfc5CMApTGc",
+      "ti": "Barbarian",
+      "a": "Juice WRLD",
+      "d": 151,
+      "ds": "2:31",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-1zKuSINcb2QSE7m6mk6J36",
+      "ti": "Best Friend (with Fall Out Boy)",
+      "a": "Juice WRLD, Fall Out Boy",
+      "d": 156,
+      "ds": "2:36",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-0X14bByEYHVw3vZlj5LuLp",
+      "ti": "Floor It",
+      "a": "Juice WRLD",
+      "d": 192,
+      "ds": "3:12",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-4Y4qNC6LKeqyVdendBIocc",
+      "ti": "Oxycodone",
+      "a": "Juice WRLD",
+      "d": 161,
+      "ds": "2:41",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-2el7XGCIcceYTLqopAaReE",
+      "ti": "Spend It",
+      "a": "Juice WRLD",
+      "d": 180,
+      "ds": "3:00",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-3T06rGO2dVEntMvym0vpQu",
+      "ti": "Empty",
+      "a": "Juice WRLD",
+      "d": 248,
+      "ds": "4:08",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-55XOUxXsBBbC07PD3Zml3F",
+      "ti": "Maze",
+      "a": "Juice WRLD",
+      "d": 144,
+      "ds": "2:24",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-39HsFsNfFYZdpnQfq8lbS3",
+      "ti": "HeMotions",
+      "a": "Juice WRLD",
+      "d": 187,
+      "ds": "3:07",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-06GhyyKkQrMO73qVArgQVH",
+      "ti": "Demonz (feat. Brent Faiyaz) - Interlude",
+      "a": "Juice WRLD, Brent Faiyaz",
+      "d": 95,
+      "ds": "1:35",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-5WQrDB34o6M8V0jxNiX6RU",
+      "ti": "Fast",
+      "a": "Juice WRLD",
+      "d": 209,
+      "ds": "3:29",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-2MFFrpPKrGnyJuVjcfdm4w",
+      "ti": "Hear Me Calling",
+      "a": "Juice WRLD",
+      "d": 190,
+      "ds": "3:10",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-59654ZK5g8mq1Z6E34qBXp",
+      "ti": "Big",
+      "a": "Juice WRLD",
+      "d": 224,
+      "ds": "3:44",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-6iaSML1PIYq936g62BDtBq",
+      "ti": "Robbery",
+      "a": "Juice WRLD",
+      "d": 240,
+      "ds": "4:00",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-0flSGzqHO12p9fU9kqaHGE",
+      "ti": "Flaws And Sins",
+      "a": "Juice WRLD",
+      "d": 218,
+      "ds": "3:38",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-2uTrdatngtB000duMrfbiV",
+      "ti": "Feeling",
+      "a": "Juice WRLD",
+      "d": 202,
+      "ds": "3:22",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-1oWM79mUVdZGCGYjSirHZR",
+      "ti": "Bandit (with YoungBoy Never Broke Again)",
+      "a": "Juice WRLD, YoungBoy Never Broke Again",
+      "d": 189,
+      "ds": "3:09",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-7yKSPAeiLHVJFSkJacPTmJ",
+      "ti": "Syphilis",
+      "a": "Juice WRLD",
+      "d": 132,
+      "ds": "2:12",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-2xwwY0EN7dtnXzMU8xRDxX",
+      "ti": "Who Shot Cupid?",
+      "a": "Juice WRLD",
+      "d": 214,
+      "ds": "3:34",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-4UBKe75v9DYcehHirq4ot4",
+      "ti": "Ring Ring (with Rvssian feat. Clever)",
+      "a": "Juice WRLD, Rvssian, Clever",
+      "d": 172,
+      "ds": "2:52",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-0C3gyphZJY83XplEHz30m0",
+      "ti": "Desire",
+      "a": "Juice WRLD",
+      "d": 190,
+      "ds": "3:10",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-2wkej79m7pKn0iTljW929c",
+      "ti": "Out My Way",
+      "a": "Juice WRLD",
+      "d": 157,
+      "ds": "2:37",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-1n4eqIG0RRUCuPT4vnsVlv",
+      "ti": "The Bees Knees",
+      "a": "Juice WRLD",
+      "d": 326,
+      "ds": "5:26",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-5euYMGygjq2IAfpzOD08Qb",
+      "ti": "ON GOD (feat. Young Thug)",
+      "a": "Juice WRLD, Young Thug",
+      "d": 250,
+      "ds": "4:10",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-0yQCHkrxQDVyMc5I8D65yC",
+      "ti": "10 Feet",
+      "a": "Juice WRLD",
+      "d": 212,
+      "ds": "3:32",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-2c3zMPsSmGkXCLQwCQqdhz",
+      "ti": "Won’t Let Go",
+      "a": "Juice WRLD",
+      "d": 200,
+      "ds": "3:20",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-6bfJggd4HFdzHzvZLQ5EDX",
+      "ti": "She’s The One",
+      "a": "Juice WRLD",
+      "d": 189,
+      "ds": "3:09",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-07Grx6opd6FcevHB0MG3r8",
+      "ti": "Rider",
+      "a": "Juice WRLD",
+      "d": 192,
+      "ds": "3:12",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-1goNZsIE8w3NQOzlP40veh",
+      "ti": "Make Believe",
+      "a": "Juice WRLD",
+      "d": 142,
+      "ds": "2:22",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    },
+    {
+      "i": "spotify-2XhatQ5NqfdqZMLCegWnbD",
+      "ti": "We Don’t Get Along (with Marshmello)",
+      "a": "Juice WRLD, Marshmello",
+      "d": 149,
+      "ds": "2:29",
+      "ar": "https://mosaic.scdn.co/640/ab67616d00001e02a782c3b830a9b62630e296f7ab67616d00001e02dc854e032e8588d5e75eebc6ab67616d00001e02e3ee48d440ff7b27d848190eab67616d00001e02f7db43292a6a99b21b51d5b4",
+      "s": "spotify",
+      "b": "Xeonify"
+    }
+  ]
+}
