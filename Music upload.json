@@ -1,5 +1,30 @@
 [
   {
+    "id": "upload-1793325135306-9704",
+    "title": "Dooty Booty",
+    "name": "Dooty Booty",
+    "artist": "IShowSpeed",
+    "artists": [
+      {
+        "name": "IShowSpeed"
+      }
+    ],
+    "album": {
+      "name": "Xeon Community",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/JJEXU/Decryptfixer/main/music_uploads/covers/cover_1793325133581_speed-ishowspeed.gif"
+        }
+      ]
+    },
+    "cover": "https://raw.githubusercontent.com/JJEXU/Decryptfixer/main/music_uploads/covers/cover_1793325133581_speed-ishowspeed.gif",
+    "duration": 144,
+    "audioUrl": "https://raw.githubusercontent.com/JJEXU/Decryptfixer/main/music_uploads/1793325129491_IShowSpeed_-_Dooty_Booty__Official_Music_Video___Prod_TgX__320k.mp3",
+    "streamUrl": "https://raw.githubusercontent.com/JJEXU/Decryptfixer/main/music_uploads/1793325129491_IShowSpeed_-_Dooty_Booty__Official_Music_Video___Prod_TgX__320k.mp3",
+    "source": "upload",
+    "uploadedAt": "2026-10-30T01:52:15.306Z"
+  },
+  {
     "id": "upload-1793324355862-8066",
     "title": "Watch Me",
     "name": "Watch Me",
