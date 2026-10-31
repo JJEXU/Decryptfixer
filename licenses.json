@@ -47,5 +47,12 @@
     "user": "chris",
     "expires": "never",
     "activated_at": "2026-10-29T12:11:25.008Z"
-  }
+  },
+  "D2-1234": {
+    "hwid": null,
+    "status": "active",
+    "user": "D2",
+    "expires": "never",
+    "activated_at": null
+  },
 }
