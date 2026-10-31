@@ -49,10 +49,10 @@
     "activated_at": "2026-10-29T12:11:25.008Z"
   },
   "D2-1234": {
-    "hwid": null,
+    "hwid": "ae144bd0-f59e-4bb4-ba38-4ac1a62b7631",
     "status": "active",
     "user": "D2",
     "expires": "never",
-    "activated_at": null
-  },
+    "activated_at": "2026-10-31T01:53:57.9900266Z"
+  }
 }
