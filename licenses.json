@@ -34,13 +34,6 @@
     "expires": "never",
     "activated_at": "2026-10-16T20:59:44.6517269Z"
   },
-  "quan-1234": {
-    "hwid": null,
-    "status": "active",
-    "user": "Quand did it",
-    "expires": "never",
-    "activated_at": null
-  },
   "chris-1234": {
     "hwid": "29aa4b77-8a0c-4854-a37d-129d8c839b7e",
     "status": "active",
